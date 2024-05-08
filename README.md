@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Umerriaz111](https://github.com/Umerriaz111)
 
-- 📫 How to reach me [https://huggingface.co/Umerzaib](https://huggingface.co/Umerzaib)
+- Reach out My HuggingFace Profile [https://huggingface.co/Umerzaib](https://huggingface.co/Umerzaib)
 
 - 💬 Ask me about **Artificial Intelligence,Deep Learning,Machine Learning,Computer Vision,LLMS,DevOps and FullStack Development**
 
